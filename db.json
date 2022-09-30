@@ -1,3 +1,7 @@
 {
-      "SearchConditionType": "2",
+      "animal":[
+        {
+            "name":"ネコ"
+        }
+    ]
 }    
