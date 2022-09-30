@@ -1,6 +1,6 @@
 {
       "animal":[
-        {
+            {
             "SearchConditionType": "2",
             "SearchConditionList": [
                   {
@@ -10,41 +10,41 @@
                         "questionType": "2",
                         "answerSelect": "1",
                         "answerSelectionList": [
-{
-"originalQuestionSelectorslId":1,
-"originalQuestionSelectorsName":"回答1"
-},
-],
-"uploadSelect": ""
-},
-{
-"originalQuestionId": 2,
-"questionTitle": "設問文2",
-"questionBody": "設問名2",
-"questionType": "3",
-"answerSelect": "1",
-"answerSelectionList": [
-{
-"originalQuestionSelectorslId":1,
-"originalQuestionSelectorsName":"北海道"
-},
-{
-"originalQuestionSelectorslId":23,
-"originalQuestionSelectorsName":"愛知"
-}
-],
-"uploadSelect": ""
-},
-{
-"originalQuestionId": 3,
-"questionTitle": "設問文3",
-"questionBody": "設問名3",
-"questionType": "4",
-"answerSelect": "",
-"answerSelectionList": [],
-"uploadSelect": "1"
-}
-]
-}
-]
+                              {
+                                    "originalQuestionSelectorslId":1,
+                                    "originalQuestionSelectorsName":"回答1"
+                              },
+                        ],
+                        "uploadSelect": ""
+                  },
+                  {
+                        "originalQuestionId": 2,
+                        "questionTitle": "設問文2",
+                        "questionBody": "設問名2",
+                        "questionType": "3",
+                        "answerSelect": "1",
+                        "answerSelectionList": [
+                              {
+                                    "originalQuestionSelectorslId":1,
+                                    "originalQuestionSelectorsName":"北海道"
+                              },
+                              {
+                                    "originalQuestionSelectorslId":23,
+                                    "originalQuestionSelectorsName":"愛知"
+                              }
+                        ],
+                        "uploadSelect": ""
+                  },
+                  {
+                        "originalQuestionId": 3,
+                        "questionTitle": "設問文3",
+                        "questionBody": "設問名3",
+                        "questionType": "4",
+                        "answerSelect": "",
+                        "answerSelectionList": [],
+                        "uploadSelect": "1"
+                  }
+            ]
+            }
+      ]
 }    
