@@ -9,14 +9,13 @@
                               "questionBody": "設問名1",
                               "questionType": "2",
                               "answerSelect": "1",
+                              "uploadSelect": "",
                               "answerSelectionList": [
                                     {
                                           "originalQuestionSelectorslId":1,
                                           "originalQuestionSelectorsName":"回答1"
                                     }
                               ],
-                              "uploadSelect": "",
-                              
                         }
                   ]
             }
