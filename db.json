@@ -1,7 +1,7 @@
 {
       "animal":[
         {
-      "SearchConditionType": "2",
+          "SearchConditionType": "2",
       "SearchConditionList": [
          {
           "originalQuestionId": 1,
